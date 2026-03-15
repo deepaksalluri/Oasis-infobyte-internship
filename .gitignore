@@ -1,0 +1,14 @@
+# Database files
+*.mv.db
+*.db
+
+# Java
+target/
+*.class
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log
